@@ -25,7 +25,7 @@
 - Cost patterns vary based on location and restaurant type
 
 ## Note
-- The 'Rate' column was intentionally not cleaned in the notebook.It was handled separately in Excel and Power BI during dashboard creation.
+- The 'Rate' column was intentionally not cleaned in the notebook. It was handled separately in Excel and Power BI during dashboard creation.
 
 - SQL queries was done using SQLite within Jupyter Notebook.
 
